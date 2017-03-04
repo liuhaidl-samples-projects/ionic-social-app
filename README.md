@@ -11,7 +11,7 @@ bla bla bla...</br>
 	* cd /ionic-social-app
   * sudo ionic hooks add
   * sudo ionic platforms add ios
-	* sudo ionic serve -lc //run app with development mode
+  * sudo ionic serve -lc //run app with development mode
   * sudo ionic run ios --emulator --target="iPhone-6s" -l//run app in ios with emulator, iPhone-6 and live reload mode to support quick development and testing 
 	
 # The Screenshot
