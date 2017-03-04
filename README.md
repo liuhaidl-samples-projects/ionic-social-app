@@ -32,4 +32,6 @@ Social is open source and covered by a standard 2-clause BSD license. See the LI
 Social is Free Software licensed under the GNU General Public License.
 
 
+## Issues
+ - sudo chown -R loginUser:group * //for example chown -R liuhaidl:staff * to resolve the emulator startup failed issue
 
