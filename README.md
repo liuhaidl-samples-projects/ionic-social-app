@@ -9,7 +9,10 @@ bla bla bla...</br>
 * Then, just download the project..."git clone ..."
 * You can use the web browser to run the demo by use the command after installing the environment:
 	* cd /ionic-social-app
-	* ionic serve -lc     
+  * sudo ionic hooks add
+  * sudo ionic platforms add ios
+	* sudo ionic serve -lc //run app with development mode
+  * sudo 
 	
 # The Screenshot
 
