@@ -7,7 +7,7 @@ ionic is a web framework for us to develop web apps ...</br>
 * At first, you should learn to install the environment of ionic. "<a href="http://ionic.io/">click here to learn</a>"
 * Then, just download the project..."git clone ..."
 * You can use the web browser to run the demo by use the command after installing the environment:
-  * git clone 
+  * git clone https://github.com/liuhaidl-samples-projects/ionic-social-app.git
 	* cd /ionic-social-app
   * ionic hooks add //add hooks
   * ionic platforms add ios //add ios platform
