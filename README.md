@@ -25,5 +25,5 @@ ionic is a web framework for us to develop web apps ...</br>
 
 <a href="http://www.cnblogs.com/Lxiaolong/p/5399008.html">**中文教程Blog**</a>
 
-## Issues
+# Issues
  - sudo chown -R loginUser:group * //for example chown -R liuhaidl:staff * to resolve the emulator startup failed issue
